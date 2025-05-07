@@ -6,7 +6,7 @@ A comprehensive MySQL database system for tracking inventory, managing suppliers
 
 This project implements a fully-featured relational database for inventory management using MySQL. The system is designed to help businesses efficiently track products across multiple warehouses, manage relationships with suppliers, process customer orders, and maintain optimal inventory levels.
 
-![Database Schema](https://via.placeholder.com/800x500?text=Inventory+Management+Database+Schema)
+![Inventory Management System](https://github.com/user-attachments/assets/df05f0f2-5598-4e29-ac29-a1bb0a0970be)
 
 ## ✨ Features
 
